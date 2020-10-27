@@ -3949,6 +3949,10 @@ body.is-loading #banner:after {
   margin-left: 2rem;
 }
 
+.sub-flex-portfolio h1 {
+  padding-left: 24px;
+}
+
 @media screen and (max-width: 736px) {
   .flex-portfolio {
     flex-direction: column;
